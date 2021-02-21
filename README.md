@@ -6,3 +6,5 @@ A simple ruby tool for scanning open ports on a website
 - cd rb-port-scanner
 - sudo chmod +x *
 - ruby port-scanner.rb
+
+# Tool Author: krishpranav
